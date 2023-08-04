@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect</name>
+   <tag></tag>
+   <elementGuidId>b3dd07c8-6c7c-482d-bbc0-3ba003582b57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-vulcan-icon-wrapper > div > div > div > svg.w-css-reset.w-css-reset-tree > g > rect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>3.5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>12</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-vulcan-v2-28&quot;)/div[@class=&quot;w-bottom-bar w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-lower w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-left w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-left-inner w-css-reset&quot;]/div[@class=&quot;w-css-reset&quot;]/div[@class=&quot;w-vulcan-button-wrapper w-css-reset&quot;]/button[@class=&quot;w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important&quot;]/div[@class=&quot;w-vulcan-icon-wrapper&quot;]/div[1]/div[1]/div[1]/svg[@class=&quot;w-css-reset w-css-reset-tree&quot;]/g[1]/rect[1]</value>
+   </webElementProperties>
+</WebElementEntity>

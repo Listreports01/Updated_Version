@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select a template_MuiBox-root jss357</name>
+   <tag></tag>
+   <elementGuidId>b8d6a9a3-b3a4-446e-b550-c13a165284cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-shareables/div/div[2]/div[2]/div/div/div[3]/div[2]/div/div[3]/div[2]/div/div[2]/div/div[4]/div/div/div/button/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss357</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss357</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-view&quot;)/div[1]/ui-view[@class=&quot;ng-scope&quot;]/section[@class=&quot;loggedin-wrapper ng-scope layout-row flex sticky-content&quot;]/md-content[@class=&quot;header-content-wrap _md&quot;]/md-content[@class=&quot;content-wrap _md&quot;]/ui-view[@class=&quot;ng-scope&quot;]/react-shareables[@class=&quot;ng-scope&quot;]/div[@class=&quot;MuiBox-root jss19 sc-fcdeBU kSfhPK&quot;]/div[@class=&quot;MuiBox-root jss62&quot;]/div[@class=&quot;MuiBox-root jss199&quot;]/div[@class=&quot;MuiBox-root jss200&quot;]/div[@class=&quot;MuiBox-root jss201&quot;]/div[@class=&quot;MuiBox-root jss228&quot;]/div[@class=&quot;MuiBox-root jss243&quot;]/div[@class=&quot;MuiBox-root jss244&quot;]/div[@class=&quot;MuiBox-root jss328&quot;]/div[@class=&quot;MuiBox-root jss330&quot;]/div[@class=&quot;MuiBox-root jss331&quot;]/div[@class=&quot;MuiBox-root jss333&quot;]/div[@class=&quot;MuiBox-root jss334&quot;]/div[@class=&quot;MuiBox-root jss353&quot;]/div[@class=&quot;MuiBox-root jss354&quot;]/div[@class=&quot;MuiBox-root jss355&quot;]/div[@class=&quot;MuiBox-root jss356&quot;]/button[@class=&quot;MuiButtonBase-root&quot;]/div[1]/div[@class=&quot;MuiBox-root jss357&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-shareables/div/div[2]/div[2]/div/div/div[3]/div[2]/div/div[3]/div[2]/div/div[2]/div/div[4]/div/div/div/button/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/button/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The Bienstock Group_overlay</name>
+   <tag></tag>
+   <elementGuidId>82a1d374-fb54-4ad2-a728-09c1b330933f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='listings']/div[4]/a/listing-card/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overlay</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listings&quot;)/div[@class=&quot;listing-wrap ng-scope flex-sm-50 flex-md-50 flex-gt-md-33 flex-100&quot;]/a[@class=&quot;listing-btn ng-scope&quot;]/listing-card[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;column-wrap layout-column&quot;]/div[2]/div[@class=&quot;img-holder layout-column&quot;]/div[@class=&quot;overlay&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='listings']/div[4]/a/listing-card/div/div[2]/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/listing-card/div/div[2]/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

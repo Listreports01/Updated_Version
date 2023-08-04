@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_CUSTOMIZE YOUR MARKETING MATERIAL_lr lr-c_4546e1</name>
+   <tag></tag>
+   <elementGuidId>8b23ba14-3e57-427b-b882-3915685dc82e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='customize-flyers']/header/div[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.lr.lr-caret-up.lr-lg.lr-rotate-180.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lr lr-caret-up lr-lg lr-rotate-180 ng-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!sectionIsOpen</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customize-flyers&quot;)/header[@class=&quot;cs-header clickable layout-align-start-center layout-row&quot;]/div[@class=&quot;caret-wrap text-right listreports-blue&quot;]/i[@class=&quot;lr lr-caret-up lr-lg lr-rotate-180 ng-scope&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='customize-flyers']/header/div[3]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/header/div[3]/i</value>
+   </webElementXpaths>
+</WebElementEntity>

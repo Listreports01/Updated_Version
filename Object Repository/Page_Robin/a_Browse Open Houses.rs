@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Browse Open Houses</name>
+   <tag></tag>
+   <elementGuidId>45e54490-e104-4baa-a4bc-6da188479759</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.MuiButtonBase-root-345.MuiButton-root-316.MuiButton-outlined-321.sc-EHOje.gApVJr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[8]/div[2]/div/div/div/header/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root-345 MuiButton-root-316 MuiButton-outlined-321 sc-EHOje gApVJr</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>theme</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inline</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/boards/scheduled-tours/calendar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse Open Houses</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root-577 sc-htpNat dRgFoh sc-evWYkj fNkqXx ScheduledToursModal-Root&quot;]/div[@class=&quot;MuiDialog-container-580 MuiDialog-scrollPaper-578&quot;]/div[@class=&quot;MuiPaper-root-635 MuiDialog-paper-581 MuiDialog-paperScrollPaper-582 MuiDialog-paperFullScreen-591 MuiDialog-paperFullWidth-590 MuiPaper-elevation0-638 MuiPaper-rounded-636&quot;]/div[@class=&quot;MuiDialogContent-root-808 ScheduledToursModal-container sc-bxivhb kCdCjF MuiBox-root-357 jss1076&quot;]/div[@class=&quot;ScheduledToursModal-content&quot;]/header[@class=&quot;MuiPaper-root-635 MuiAppBar-root-810 MuiAppBar-positionStatic-814 MuiAppBar-colorInherit-819 HeaderNavBar-root MuiPaper-elevation0-638&quot;]/div[@class=&quot;MuiToolbar-root-1077 MuiToolbar-regular-1079 MuiToolbar-gutters-1078&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-spacing-xs-2-393 MuiGrid-align-items-xs-center-378 MuiGrid-justify-xs-space-between-389&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-item-371&quot;]/a[@class=&quot;MuiButtonBase-root-345 MuiButton-root-316 MuiButton-outlined-321 sc-EHOje gApVJr&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelled'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Past'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[6]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/boards/scheduled-tours/calendar')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div[2]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

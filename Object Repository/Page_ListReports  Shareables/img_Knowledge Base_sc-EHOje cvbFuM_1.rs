@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Knowledge Base_sc-EHOje cvbFuM_1</name>
+   <tag></tag>
+   <elementGuidId>4709bd2e-e94a-4075-8df5-04978e40cecd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-shareables/div/div[2]/div[3]/div/div/div/div/div/button/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.sc-EHOje.cvbFuM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://listreports-test.s3.us-west-2.amazonaws.com/grinder-sls/7c35742e-25b1-4f8b-bb83-0ed7173cc712.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>shareable</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-EHOje cvbFuM</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-view&quot;)/div[1]/ui-view[@class=&quot;ng-scope&quot;]/section[@class=&quot;loggedin-wrapper ng-scope layout-row flex&quot;]/md-content[@class=&quot;header-content-wrap _md&quot;]/md-content[@class=&quot;content-wrap _md&quot;]/ui-view[@class=&quot;ng-scope&quot;]/react-shareables[@class=&quot;ng-scope&quot;]/div[@class=&quot;MuiBox-root jss2 sc-cvbbAY dFBqZG&quot;]/div[@class=&quot;MuiBox-root jss60&quot;]/div[@class=&quot;MuiBox-root jss135&quot;]/div[@class=&quot;MuiBox-root jss136&quot;]/div[@class=&quot;MuiBox-root jss137&quot;]/div[@class=&quot;MuiBox-root jss138&quot;]/div[@class=&quot;MuiBox-root jss139&quot;]/div[@class=&quot;MuiBox-root jss140&quot;]/button[@class=&quot;MuiButtonBase-root&quot;]/div[@class=&quot;MuiBox-root jss214&quot;]/img[@class=&quot;sc-EHOje cvbFuM&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-shareables/div/div[2]/div[3]/div/div/div/div/div/button/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='shareable']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

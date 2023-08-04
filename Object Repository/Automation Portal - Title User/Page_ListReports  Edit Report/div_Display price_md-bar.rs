@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Display price_md-bar</name>
+   <tag></tag>
+   <elementGuidId>afcebbfa-7cc2-4aef-80f1-af4cd59b2fde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cs-container > div.form-body.ng-scope > div.form-group.text-left.layout-align-start-start.layout-row > md-switch[name=&quot;display_price&quot;] > div.md-container > div.md-bar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='listing_details']/div/div/div[2]/md-switch/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-bar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listing_details&quot;)/div[@class=&quot;cs-container&quot;]/div[@class=&quot;form-body ng-scope&quot;]/div[@class=&quot;form-group text-left layout-align-start-start layout-row&quot;]/md-switch[@class=&quot;ng-pristine ng-untouched ng-valid md-listreports-green-theme&quot;]/div[@class=&quot;md-container&quot;]/div[@class=&quot;md-bar&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='listing_details']/div/div/div[2]/md-switch/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[2]/md-switch/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shareables_Notable_Tab</name>
+   <tag></tag>
+   <elementGuidId>2b10562f-2a8e-40d6-9f98-afebec493633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-shareables-library/div/div/div[2]/div[3]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss538</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss538</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-view&quot;)/div[1]/ui-view[@class=&quot;ng-scope&quot;]/section[@class=&quot;loggedin-wrapper ng-scope layout-row flex sticky-content&quot;]/md-content[@class=&quot;header-content-wrap _md&quot;]/md-content[@class=&quot;content-wrap _md&quot;]/ui-view[@class=&quot;ng-scope&quot;]/react-shareables-library[@class=&quot;ng-scope&quot;]/div[@class=&quot;MuiBox-root jss247 sc-hrWEMg iyMXM&quot;]/div[@class=&quot;MuiBox-root jss248&quot;]/div[@class=&quot;MuiBox-root jss337 sc-hXRMBi jGRsjD&quot;]/div[@class=&quot;MuiBox-root jss388 sc-iQNlJl ldlGrN&quot;]/div[@class=&quot;MuiBox-root jss389 sc-esOvli gJETAv&quot;]/div[@class=&quot;MuiBox-root jss534 sc-iuJeZd cwcecM hide-scrollbar&quot;]/div[@class=&quot;MuiBox-root jss537&quot;]/div[@class=&quot;MuiBox-root jss538&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-shareables-library/div/div/div[2]/div[3]/div/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

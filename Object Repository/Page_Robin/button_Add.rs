@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>ceeb0e4f-4a3d-4d02-9222-9e2c4e794eb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='my-home-modal']/div/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root-369.MuiGrid-container-370.MuiGrid-align-items-xs-center-378.MuiGrid-justify-xs-space-between-389 > div.MuiGrid-root-369.MuiGrid-item-371 > div > button.MuiButtonBase-root-345.MuiButton-root-316.MuiButton-contained-324.sc-EHOje.cNGBez.MuiButton-containedPrimary-325</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root-345 MuiButton-root-316 MuiButton-contained-324 sc-EHOje cNGBez MuiButton-containedPrimary-325</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>theme</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inline</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-home-modal&quot;)/div[1]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-spacing-xs-2-393&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-item-371 MuiGrid-grid-xs-true-403&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-direction-xs-column-373&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-item-371 MuiGrid-grid-xs-true-403&quot;]/div[3]/div[1]/div[1]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-align-items-xs-center-378 MuiGrid-justify-xs-space-between-389&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-item-371&quot;]/div[1]/button[@class=&quot;MuiButtonBase-root-345 MuiButton-root-316 MuiButton-contained-324 sc-EHOje cNGBez MuiButton-containedPrimary-325&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[53]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-home-modal']/div/div/div[2]/div/div/div[3]/div/div/div/div[2]/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My service providers'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email me'])[2]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrician'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/button</value>
+   </webElementXpaths>
+</WebElementEntity>

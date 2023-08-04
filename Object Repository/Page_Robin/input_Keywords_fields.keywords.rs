@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Keywords_fields.keywords</name>
+   <tag></tag>
+   <elementGuidId>2650b87c-8e21-40d7-bb4f-44ffbe267bdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='fields.keywords']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;fields.keywords&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root-357 jss2617 sc-gZMcBi jyYUwi</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fields.keywords</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>E.g. Office, fireplace, pool</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[11]/div[@class=&quot;MuiBox-root-357 jss2536&quot;]/div[1]/div[1]/div[@class=&quot;MuiBox-root-357 jss2569&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-spacing-xs-2-393 MuiGrid-align-items-xs-center-378&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-item-371 MuiGrid-grid-xs-12-415 MuiGrid-grid-sm-8-425&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-item-371 MuiGrid-grid-xs-12-415&quot;]/div[@class=&quot;MuiBox-root-357 jss2615 sc-iwsKbI daHkCO&quot;]/div[@class=&quot;MuiBox-root-357 jss2616&quot;]/input[@class=&quot;MuiBox-root-357 jss2617 sc-gZMcBi jyYUwi&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='fields.keywords']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notifications</name>
+   <tag></tag>
+   <elementGuidId>9eaaff48-cc20-4b46-b47b-ee45c0d42eed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class,'notification-badge ng-scope')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.lr.lr-bell.lr-lg.listreports-gray</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lr lr-bell lr-lg listreports-gray</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-view&quot;)/div[1]/ui-view[@class=&quot;ng-scope&quot;]/section[@class=&quot;loggedin-wrapper ng-scope layout-row flex&quot;]/md-content[@class=&quot;header-content-wrap _md&quot;]/ng-include[@class=&quot;main-header ng-scope&quot;]/header[@class=&quot;application-header ng-scope layout-align-space-between-center layout-row&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/notification-center[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;notification-center&quot;]/div[@class=&quot;clickable notifications-bell-container&quot;]/div[@class=&quot;notifications-bell&quot;]/i[@class=&quot;lr lr-bell lr-lg listreports-gray&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-view']/div/ui-view/section/md-content/ng-include/header/div[4]/notification-center/div/div/div/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//notification-center/div/div/div/i</value>
+   </webElementXpaths>
+</WebElementEntity>

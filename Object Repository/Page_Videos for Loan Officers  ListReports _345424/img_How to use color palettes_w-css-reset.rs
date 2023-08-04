@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_How to use color palettes_w-css-reset</name>
+   <tag></tag>
+   <elementGuidId>2b98647f-de34-4df6-abe7-1c718ba12212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w-vulcan-v2-142']/div/div[3]/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-css-reset</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://embed-ssl.wistia.com/deliveries/adaa848ae5fc9c676dccf1589e7009b1.webp?image_crop_resized=640x341 320w, https://embed-ssl.wistia.com/deliveries/adaa848ae5fc9c676dccf1589e7009b1.webp?image_crop_resized=640x341 640w, https://embed-ssl.wistia.com/deliveries/adaa848ae5fc9c676dccf1589e7009b1.webp?image_crop_resized=934x498 960w, https://embed-ssl.wistia.com/deliveries/adaa848ae5fc9c676dccf1589e7009b1.webp?image_crop_resized=934x498 1280w, https://embed-ssl.wistia.com/deliveries/adaa848ae5fc9c676dccf1589e7009b1.webp?image_crop_resized=934x498 1920w, https://embed-ssl.wistia.com/deliveries/adaa848ae5fc9c676dccf1589e7009b1.webp?image_crop_resized=934x498 3840w</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://embed-ssl.wistia.com/deliveries/adaa848ae5fc9c676dccf1589e7009b1.webp?image_crop_resized=640x341</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Video Thumbnail</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-vulcan-v2-142&quot;)/div[@class=&quot;w-vulcan--background w-css-reset&quot;]/div[@class=&quot;w-css-reset&quot;]/div[1]/div[@class=&quot;w-css-reset&quot;]/img[@class=&quot;w-css-reset&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w-vulcan-v2-142']/div/div[3]/div/div[2]/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Video Thumbnail'])[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]/div[2]/div[2]/div/div/div[3]/div/div[2]/img</value>
+   </webElementXpaths>
+</WebElementEntity>

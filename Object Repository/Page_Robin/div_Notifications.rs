@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Notifications</name>
+   <tag></tag>
+   <elementGuidId>0776f767-dee3-4453-b779-0014bbcc745f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root-369.MuiGrid-item-371.MuiGrid-grid-xs-true-403</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root-369 MuiGrid-item-371 MuiGrid-grid-xs-true-403</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notifications</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[1]/div[@class=&quot;Header__Container-sc-1v5gv8v-0 bkBrCH&quot;]/div[2]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-wrap-xs-nowrap-376 MuiGrid-align-items-xs-center-378 MuiGrid-justify-xs-flex-end-388&quot;]/div[@class=&quot;Header__StyledNotificationsContainer-sc-1v5gv8v-1 gTRxVL&quot;]/div[@class=&quot;MuiBox-root-357 jss472&quot;]/div[@class=&quot;sc-fBuWsC jZaxSQ&quot;]/div[@class=&quot;MuiPaper-root-633 MuiPaper-elevation1-637 MuiPaper-rounded-634&quot;]/div[@class=&quot;MuiBox-root-357 jss1117&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-align-items-xs-center-378 MuiGrid-justify-xs-space-between-389&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-item-371 MuiGrid-grid-xs-true-403&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Idea Board'])[1]/following::div[14]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downtown Los Angeles - Los Angeles, CA Homes'])[1]/preceding::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downtown Los Angeles - Los Angeles, CA Homes'])[2]/preceding::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Notifications']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/div[2]/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

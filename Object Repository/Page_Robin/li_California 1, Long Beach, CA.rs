@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_California 1, Long Beach, CA</name>
+   <tag></tag>
+   <elementGuidId>b998a281-81f9-4dc8-9adb-b16bd8914257</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='PlacesAutocomplete__suggestion-EiFDYWxpZm9ybmlhIDEsIExvbmcgQmVhY2gsIENBLCBVU0EiLiosChQKEgknn6YsGbeTgBGgbkJKKtLHzRIUChIJWdeZQOjKwoARqo8qxPo6AKE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PlacesAutocomplete__suggestion-EiFDYWxpZm9ybmlhIDEsIExvbmcgQmVhY2gsIENBLCBVU0EiLiosChQKEgknn6YsGbeTgBGgbkJKKtLHzRIUChIJWdeZQOjKwoARqo8qxPo6AKE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root-345 MuiListItem-root-1081 MuiMenuItem-root-1077 MuiMenuItem-gutters-1078 MuiListItem-gutters-1088 MuiListItem-button-1089</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PlacesAutocomplete__suggestion-EiFDYWxpZm9ybmlhIDEsIExvbmcgQmVhY2gsIENBLCBVU0EiLiosChQKEgknn6YsGbeTgBGgbkJKKtLHzRIUChIJWdeZQOjKwoARqo8qxPo6AKE</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>California 1, Long Beach, CA</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[11]/div[1]/ul[@class=&quot;MuiList-root-1073 MuiList-padding-1074&quot;]/li[@id=&quot;PlacesAutocomplete__suggestion-EiFDYWxpZm9ybmlhIDEsIExvbmcgQmVhY2gsIENBLCBVU0EiLiosChQKEgknn6YsGbeTgBGgbkJKKtLHzRIUChIJWdeZQOjKwoARqo8qxPo6AKE&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='PlacesAutocomplete__suggestion-EiFDYWxpZm9ybmlhIDEsIExvbmcgQmVhY2gsIENBLCBVU0EiLiosChQKEgknn6YsGbeTgBGgbkJKKtLHzRIUChIJWdeZQOjKwoARqo8qxPo6AKE']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::li[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::li[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ListPacks_Select Live ListPacks Image</name>
+   <tag></tag>
+   <elementGuidId>98b19543-35b7-43ee-b71f-691fef3eb615</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-listpack-detail/div/div[2]/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://listreports-design.s3.amazonaws.com/email/DAAE/listpacks/lp_top_10_largest_homes_312x264.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-view&quot;)/div[1]/ui-view[@class=&quot;ng-scope&quot;]/section[@class=&quot;loggedin-wrapper ng-scope layout-row flex&quot;]/md-content[@class=&quot;header-content-wrap _md&quot;]/md-content[@class=&quot;content-wrap _md&quot;]/ui-view[@class=&quot;ng-scope&quot;]/react-listpack-detail[@class=&quot;ng-scope&quot;]/div[@class=&quot;MuiBox-root jss710&quot;]/div[@class=&quot;MuiBox-root jss733&quot;]/div[@class=&quot;MuiBox-root jss734&quot;]/div[@class=&quot;MuiBox-root jss735&quot;]/div[@class=&quot;MuiBox-root jss736&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6&quot;]/div[@class=&quot;MuiBox-root jss862&quot;]/div[2]/div[1]/div[2]/div[@class=&quot;MuiBox-root jss977&quot;]/div[@class=&quot;MuiBox-root jss979&quot;]/div[@class=&quot;MuiBox-root jss980&quot;]/div[2]/div[1]/div[1]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-listpack-detail/div/div[2]/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://listreports-design.s3.amazonaws.com/email/DAAE/listpacks/lp_top_10_largest_homes_312x264.jpg')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

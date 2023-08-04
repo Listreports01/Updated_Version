@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shareables_ListPacks_Market Area ZIP_textbox</name>
+   <tag></tag>
+   <elementGuidId>fa9e1d25-0d12-4a81-83eb-7269face9223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiBox-root.jss564.sc-fMiknA.iiDtGJ.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss564 sc-fMiknA iiDtGJ form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>City, Zip, or Neighborhood</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;route-shareables-slug&quot;]/div[@class=&quot;MuiDialog-root sc-cSHVUG hvhKMU sc-kfGgVZ eELaNO&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiBox-root jss551&quot;]/div[@class=&quot;MuiDialogContent-root&quot;]/div[@class=&quot;MuiBox-root jss555&quot;]/div[@class=&quot;MuiBox-root jss557&quot;]/div[@class=&quot;MuiBox-root jss562&quot;]/div[@class=&quot;MuiBox-root jss563&quot;]/input[@class=&quot;MuiBox-root jss564 sc-fMiknA iiDtGJ form-control&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_View_jss549 jss606</name>
+   <tag></tag>
+   <elementGuidId>9f48093c-98f7-4774-85b0-350f12b91289</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.jss549.jss606</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-list-packs/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div/table/tbody/tr[3]/td/div/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss549 jss606</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>default</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-view&quot;)/div[1]/ui-view[@class=&quot;ng-scope&quot;]/section[@class=&quot;loggedin-wrapper ng-scope layout-row flex&quot;]/md-content[@class=&quot;header-content-wrap _md&quot;]/md-content[@class=&quot;content-wrap _md&quot;]/ui-view[@class=&quot;ng-scope&quot;]/react-list-packs[@class=&quot;ng-scope&quot;]/div[@class=&quot;MuiBox-root jss249&quot;]/div[2]/div[@class=&quot;MuiBox-root jss317&quot;]/div[@class=&quot;MuiBox-root jss322&quot;]/div[@class=&quot;MuiBox-root jss425&quot;]/div[@class=&quot;MuiBox-root jss426&quot;]/div[@class=&quot;MuiBox-root jss475&quot;]/div[@class=&quot;MuiBox-root jss543&quot;]/div[@class=&quot;MuiBox-root jss544&quot;]/table[@class=&quot;sc-iyvyFf ccBVHD&quot;]/tbody[@class=&quot;sc-kfGgVZ eravuG&quot;]/tr[@class=&quot;sc-esjQYD jAVbai&quot;]/td[@class=&quot;sc-eXEjpC jYgZj&quot;]/div[@class=&quot;MuiBox-root jss605&quot;]/span[@class=&quot;MuiButtonBase-root MuiIconButton-root jss558 MuiCheckbox-root jss548&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/span[@class=&quot;jss549 jss606&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-view']/div/ui-view/section/md-content/md-content/ui-view/react-list-packs/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div/table/tbody/tr[3]/td/div/span/span/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/span/span/span</value>
+   </webElementXpaths>
+</WebElementEntity>

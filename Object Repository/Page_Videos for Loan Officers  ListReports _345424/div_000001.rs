@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_000001</name>
+   <tag></tag>
+   <elementGuidId>58623fd1-311f-4a6b-b57a-823c8b1e6a47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w-vulcan-v2-79']/div[4]/div/div[4]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#w-vulcan-v2-79 > div.w-bottom-bar.w-css-reset > div.w-bottom-bar-lower.w-css-reset > div.w-bottom-bar-middle.w-css-reset > div.w-bottom-bar-middle-inner.w-css-reset > div.w-css-reset > div.w-playbar-wrapper.w-css-reset.w-css-reset-tree</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-playbar-wrapper w-css-reset w-css-reset-tree</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0:000:01</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-vulcan-v2-79&quot;)/div[@class=&quot;w-bottom-bar w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-lower w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-middle w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-middle-inner w-css-reset&quot;]/div[@class=&quot;w-css-reset&quot;]/div[@class=&quot;w-playbar-wrapper w-css-reset w-css-reset-tree&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w-vulcan-v2-79']/div[4]/div/div[4]/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for sound'])[2]/following::div[35]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to edit a marketing kit'])[1]/following::div[66]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to use the photo selector'])[1]/preceding::div[41]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for sound'])[3]/preceding::div[59]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div[2]/div[2]/div/div[4]/div/div[4]/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

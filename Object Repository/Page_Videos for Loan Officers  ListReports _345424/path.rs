@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>0cbf2993-3f5d-4bb4-8e06-51f3cdf77a79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>g > g > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M13.8,14.2c-0.5,0.5-1.4,0.8-2,0.8h-1.6C9.5,15,9,15.5,9,16.2v1.6c0,0.7,0.5,1.2,1.2,1.2h1.6c0.7,0,1.6,0.4,2,0.8l2.3,2.3c0.5,0.5,0.8,0.3,0.8-0.4v-9.6c0-0.7-0.4-0.8-0.8-0.4L13.8,14.2z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-vulcan-v2-100&quot;)/div[@class=&quot;w-bottom-bar w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-lower w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-right w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-right-inner-anchor w-css-reset&quot;]/div[@class=&quot;w-bottom-bar-right-inner w-css-reset&quot;]/div[@class=&quot;w-css-reset&quot;]/div[@class=&quot;w-vulcan-button-wrapper w-css-reset&quot;]/button[@class=&quot;w-vulcan-v2-button w-css-reset w-css-reset-tree w-css-reset-button-important&quot;]/div[@class=&quot;w-vulcan-icon-wrapper&quot;]/svg[1]/g[1]/g[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Your searches_MuiInputBase-input-748 _08f8a6</name>
+   <tag></tag>
+   <elementGuidId>ce5bcc4c-f8b9-4ecc-a995-f7796163ee7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiInputBase-input-748.MuiOutlinedInput-input-732.MuiInputBase-inputAdornedEnd-753.MuiOutlinedInput-inputAdornedEnd-736.MuiInputBase-inputMarginDense-749.MuiOutlinedInput-inputMarginDense-733</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>City, Zip, Neighborhood, School</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input-748 MuiOutlinedInput-input-732 MuiInputBase-inputAdornedEnd-753 MuiOutlinedInput-inputAdornedEnd-736 MuiInputBase-inputMarginDense-749 MuiOutlinedInput-inputMarginDense-733</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[2]/div[1]/div[@class=&quot;MuiBox-root-357 jss481&quot;]/div[1]/div[2]/div[@class=&quot;sc-RmnOB jVBuGP&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-wrap-xs-nowrap-376 MuiGrid-align-items-xs-flex-start-379&quot;]/div[@class=&quot;sc-bTiqRo hWtxvQ&quot;]/div[@class=&quot;MuiBox-root-357 jss711&quot;]/div[@class=&quot;MuiBox-root-357 jss712&quot;]/div[@class=&quot;MuiBox-root-357 jss714&quot;]/div[@class=&quot;MuiBox-root-357 jss715 tour-target-listpack-search&quot;]/div[@class=&quot;MuiBox-root-357 jss716&quot;]/div[@class=&quot;MuiFormControl-root-718 MuiTextField-root-717 jss713 MuiFormControl-fullWidth-721&quot;]/div[@class=&quot;MuiInputBase-root-737 MuiOutlinedInput-root-722 MuiInputBase-fullWidth-747 Mui-focused Mui-focused MuiInputBase-formControl-738 MuiInputBase-adornedEnd-742 MuiOutlinedInput-adornedEnd-727 MuiInputBase-marginDense-744 MuiOutlinedInput-marginDense-729&quot;]/input[@class=&quot;MuiInputBase-input-748 MuiOutlinedInput-input-732 MuiInputBase-inputAdornedEnd-753 MuiOutlinedInput-inputAdornedEnd-736 MuiInputBase-inputMarginDense-749 MuiOutlinedInput-inputMarginDense-733&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

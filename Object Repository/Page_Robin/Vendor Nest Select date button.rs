@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Vendor Nest Select date button</name>
+   <tag></tag>
+   <elementGuidId>1a803317-41f3-4823-a19e-bfd7b21acda3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root-1517.MuiButton-root-1488.MuiButton-outlined-1493.sc-EHOje.gApVJr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[33]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root-1517 MuiButton-root-1488 MuiButton-outlined-1493 sc-EHOje gApVJr</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>theme</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inline</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select date</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root-575 sc-htpNat dRgFoh ScheduleATourModal-Root&quot;]/div[@class=&quot;MuiDialog-container-578 MuiDialog-scrollPaper-576&quot;]/div[@class=&quot;MuiPaper-root-633 MuiDialog-paper-579 MuiDialog-paperScrollPaper-580 MuiDialog-paperFullScreen-589 MuiDialog-paperFullWidth-588 MuiPaper-elevation24-660 MuiPaper-rounded-634&quot;]/div[@class=&quot;MuiDialogContent-root-1458 sc-bxivhb kCdCjF MuiBox-root-357 jss1487&quot;]/div[1]/div[@class=&quot;ScheduleATourModal-Content&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-container-370 MuiGrid-spacing-xs-10-401 MuiGrid-align-items-xs-flex-start-379&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-item-371 MuiGrid-grid-xs-true-403&quot;]/div[@class=&quot;FormItem-Root&quot;]/div[1]/div[@class=&quot;sc-hBbWxd gkawbV&quot;]/div[@class=&quot;MuiGrid-root-369 FormItem-Selection MuiGrid-container-370 MuiGrid-spacing-xs-2-393 MuiGrid-align-items-xs-center-378&quot;]/div[@class=&quot;MuiGrid-root-369 MuiGrid-item-371&quot;]/div[1]/button[@class=&quot;MuiButtonBase-root-1517 MuiButton-root-1488 MuiButton-outlined-1493 sc-EHOje gApVJr&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[33]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First choice:'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates and times are not guaranteed until confirmed by your agent.'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select time'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div[2]/div/button</value>
+   </webElementXpaths>
+</WebElementEntity>

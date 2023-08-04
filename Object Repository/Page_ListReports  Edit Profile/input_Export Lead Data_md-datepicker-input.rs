@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Export Lead Data_md-datepicker-input</name>
+   <tag></tag>
+   <elementGuidId>83033c20-a6cb-4804-85b1-0d48cad4d00a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.md-datepicker-input-container.md-datepicker-focused > input.md-datepicker-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/md-datepicker/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>End Date</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-datepicker-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>dialog</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-focus</name>
+      <type>Main</type>
+      <value>ctrl.setFocused(true)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-blur</name>
+      <type>Main</type>
+      <value>ctrl.setFocused(false)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>End Date</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>3</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;cookies cors json queryselector websockets supports no-touchevents cssanimations csstransforms3d csstransitions ng-scope&quot;]/body[@class=&quot;pro route-profile modal-open md-datepicker-is-showing&quot;]/div[@class=&quot;modal fade ng-isolate-scope standard-modal confirmation-modal undefined in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;ng-scope&quot;]/div[1]/form[@class=&quot;ng-valid ng-valid-mindate ng-valid-maxdate ng-valid-filtered ng-valid-valid ng-valid-required ng-dirty ng-valid-date&quot;]/div[@class=&quot;datepicker-section-wrap layout-align-center-center layout-row&quot;]/div[1]/div[@class=&quot;datepicker-wrap&quot;]/md-datepicker[@class=&quot;ng-pristine ng-valid _md-datepicker-has-triangle-icon ng-isolate-scope ng-valid-mindate ng-valid-maxdate ng-valid-filtered ng-valid-valid ng-valid-required ng-touched md-datepicker-open&quot;]/div[@class=&quot;md-datepicker-input-container md-datepicker-focused&quot;]/input[@class=&quot;md-datepicker-input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/md-datepicker/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>
